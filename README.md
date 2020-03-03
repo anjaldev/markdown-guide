@@ -9,5 +9,5 @@
 5. Open pull request at COdeWithRJoshi/markdown-guide
 6. I'll verify and merge the updated or modified files.
  
-
+### Community members can make comments on your changes. Editors will verify and ask to make changes if required. Changes will be either merged or denied.
 
