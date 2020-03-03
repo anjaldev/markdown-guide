@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 # Contibute to MarkDown Guide
+=======
+# MarkDown Guide
+
+## How can I contribute to the Markdown guide?
+>>>>>>> c26c111fe429c39cadc779ed554b0db4e0d45b37
 
 1. Fork the Repo
 2. Clone the forked Repo from your account
